@@ -40,7 +40,14 @@ Average Math Scores per Grade Level | Average Reading Scores per Grade Level
 :----------------------------------:|:-------------------------------------:
 ![before_avg_math_score_per_school](resources/before_avg_math_score_per_school.png) | ![before_avg_reading_score_per_school](resources/before_avg_reading_score_per_school.png)
 
+Average Scores by School Spending
+![before_scores_by_school_spending](resources/before_scores_by_school_spending.png)
 
+Average Scores by School Size
+![before_scores_by_school_size](resources/before_scores_by_school_size.png)
+
+Average Scores by School Type
+![before_scores_by_school_type](resources/before_scores_by_school_type.png)
 
 ## Challenge Overview
 The school board has notified you that the reading and math scores for Thomas High School ninth greaders appear to have been altered. You are tasked to replace these scores with`NaN`while keeping the rest of the data intact. You are then to repeat the school distrct analysis and describe how these changes affected the overall analysis.
