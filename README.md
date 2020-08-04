@@ -96,8 +96,7 @@ Average Math Scores per Grade Level | Average Reading Scores per Grade Level
 ![challenge_scores_by_school_type](resources/challenge_scores_by_school_type.png)
 
 ## Challenge Summary
-
-Before applying NaN to Thomas HS's 9th graders, avg math score was 79.0, avg reading score was 81.9, % passing math was 75, % passing reading was 86, % overall passing was 65
+There have been several major changes to the school district analysis after the reading and math scores for Thomas High School ninth graders have been replaced. Firstly, the passing percentage for both math and reading and the overall passing percentage for Thomas High School dropped significantly. Secondly, there is a drop in percentage of students passing math, percentage of students passing reading, and overall passing percentage for the $630-644 spending range. We can see drops in the same categories for medium-sized schools and charter schools. This is because a drop in percentage of students passing math, percentage of students passing reading, and overall passing percentage for Thomas High School itself would affect these school categories because Thomas High School is classied as a medium charter school with a spending of between $630-644 per student.
 
 
 
