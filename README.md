@@ -50,7 +50,7 @@ Average Scores by School Type
 ![before_scores_by_school_type](resources/before_scores_by_school_type.png)
 
 ## Challenge Overview
-The school board has notified you that the reading and math scores for Thomas High School ninth greaders appear to have been altered. You are tasked to replace these scores with`NaN`while keeping the rest of the data intact. You are then to repeat the school distrct analysis and describe how these changes affected the overall analysis.
+The school board has notified you that the reading and math scores for Thomas High School ninth greaders appear to have been altered. You are tasked to replace these scores with `NaN` while keeping the rest of the data intact. You are then to repeat the school distrct analysis and describe how these changes affected the overall analysis.
 
 ## Challenge Results
 The analysis of the altered scores show the following:
@@ -71,11 +71,28 @@ The analysis of the altered scores show the following:
 - Looking at the top 5 performing schools, we can see that replacing ninth grader's scores for Thomas High School has dropped their performance to below top 5. However, Thomas High School's performance has not dropped to bottom 5 yet.
 ![challenge_top_5](resources/challenge_top_5.png)
 
-- 
+- Looking at the average math and reading scores per school, we can see that there is no average for ninth graders for Thomas High School. This reflects our alteration of replacing these scores with `Nan`.
 ![challenge_avg_math_score_per_school](resources/challenge_avg_math_score_per_school.png) ![challenge_avg_reading_score_per_school](resources/challenge_avg_reading_score_per_school.png)
 
+- Looking at the average scores by school spending, we can see that the only change was a drop in percentage of students passing math, percentage of students passing reading, and overall passing percentage. This only appears in the $630-644 range as Thomas High School is in this spending range.
+    - Percentage of students passing math dropped from **73%** to **67%**
+    - Percentage of students passing reading dropped from **84%** to **77%**
+    - Overall passing percentage dropped from **63%** to **56%**
+![challenge_scores_by_school_spending](resources/challenge_scores_by_school_spending.png)
 
+- Looking at the average scores by school size, we can see that the only change was a drop in percentage of students passing math, percentage of students passing reading, and overall passing percentage. This only appears in the medium schoo size as Thomas High School is a medium-sized school.
+    - Percentage of students passing math dropped from **94%** to **88%**
+    - Percentage of students passing reading dropped from **97%** to **91%**
+    - Overall passing percentage dropped from **91%** to **85%**
+![challenge_scores_by_school_size](resources/challenge_scores_by_school_size.png)
 
+- Looking at the average scores by school type, we can see that the only change was a drop in percentage of students passing math, percentage of students passing reading, and overall passing percentage. This only appears in charter school type as Thomas High School is a charter school.
+    - Percentage of students passing math dropped from **94%** to **90%**
+    - Percentage of students passing reading dropped from **97%** to **93%**
+    - Overall passing percentage dropped from **90%** to **87%**
+![challenge_scores_by_school_type](resources/challenge_scores_by_school_type.png)
+
+## Challenge Summary
 
 Before applying NaN to Thomas HS's 9th graders, avg math score was 79.0, avg reading score was 81.9, % passing math was 75, % passing reading was 86, % overall passing was 65
 
