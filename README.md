@@ -50,7 +50,7 @@ Average Scores by School Type
 ![before_scores_by_school_type](resources/before_scores_by_school_type.png)
 
 ## Challenge Overview
-The school board has notified you that the reading and math scores for Thomas High School ninth greaders appear to have been altered. You are tasked to replace these scores with `NaN` while keeping the rest of the data intact. You are then to repeat the school distrct analysis and describe how these changes affected the overall analysis.
+The school board has notified you that the reading and math scores for Thomas High School ninth graders appear to have been altered. You are tasked to replace these scores with `NaN` while keeping the rest of the data intact. You are then to repeat the school district analysis and describe how these changes affected the overall analysis.
 
 ## Challenge Results
 The analysis of the altered scores show the following:
@@ -72,7 +72,9 @@ The analysis of the altered scores show the following:
 ![challenge_top_5](resources/challenge_top_5.png)
 
 - Looking at the average math and reading scores per school, we can see that there is no average for ninth graders for Thomas High School. This reflects our alteration of replacing these scores with `Nan`.
-![challenge_avg_math_score_per_school](resources/challenge_avg_math_score_per_school.png) ![challenge_avg_reading_score_per_school](resources/challenge_avg_reading_score_per_school.png)
+Average Math Scores per Grade Level | Average Reading Scores per Grade Level
+:----------------------------------:|:-------------------------------------:
+![challenge_avg_math_score_per_school](resources/challenge_avg_math_score_per_school.png) | ![challenge_avg_reading_score_per_school](resources/challenge_avg_reading_score_per_school.png)
 
 - Looking at the average scores by school spending, we can see that the only change was a drop in percentage of students passing math, percentage of students passing reading, and overall passing percentage. This only appears in the $630-644 range as Thomas High School is in this spending range.
     - Percentage of students passing math dropped from **73%** to **67%**
