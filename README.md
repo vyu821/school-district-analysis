@@ -72,6 +72,7 @@ The analysis of the altered scores show the following:
 ![challenge_top_5](resources/challenge_top_5.png)
 
 - Looking at the average math and reading scores per school, we can see that there is no average for ninth graders for Thomas High School. This reflects our alteration of replacing these scores with `Nan`.
+
 Average Math Scores per Grade Level | Average Reading Scores per Grade Level
 :----------------------------------:|:-------------------------------------:
 ![challenge_avg_math_score_per_school](resources/challenge_avg_math_score_per_school.png) | ![challenge_avg_reading_score_per_school](resources/challenge_avg_reading_score_per_school.png)
