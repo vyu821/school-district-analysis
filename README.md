@@ -72,7 +72,7 @@ The analysis of the altered scores show the following:
 ![challenge_top_5](resources/challenge_top_5.png)
 - Looking at the top 5 performing schools, we can see that replacing ninth grader's scores for Thomas High School has dropped their performance to below top 5. However, Thomas High School's performance has not dropped to bottom 5 yet.
 
-![challenge_avg_math_score_per_school](resources/challenge_avg_math_score_per_school.png) | ![challenge_avg_reading_score_per_school](resources/challenge_avg_reading_score_per_school.png)
+![challenge_avg_math_score_per_school](resources/challenge_avg_math_score_per_school.png) ![challenge_avg_reading_score_per_school](resources/challenge_avg_reading_score_per_school.png)
 
 
 
