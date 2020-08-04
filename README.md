@@ -83,7 +83,7 @@ Average Math Scores per Grade Level | Average Reading Scores per Grade Level
     - Overall passing percentage dropped from **63%** to **56%**
 ![challenge_scores_by_school_spending](resources/challenge_scores_by_school_spending.png)
 
-- Looking at the average scores by school size, we can see that the only change was a drop in percentage of students passing math, percentage of students passing reading, and overall passing percentage. This only appears in the medium schoo size as Thomas High School is a medium-sized school.
+- Looking at the average scores by school size, we can see that the only change was a drop in percentage of students passing math, percentage of students passing reading, and overall passing percentage. This only appears in the medium school size as Thomas High School is a medium-sized school.
     - Percentage of students passing math dropped from **94%** to **88%**
     - Percentage of students passing reading dropped from **97%** to **91%**
     - Overall passing percentage dropped from **91%** to **85%**
