@@ -54,12 +54,13 @@ The school board has notified you that the reading and math scores for Thomas Hi
 
 ## Challenge Results
 The analysis of the altered scores show the following:
-- Looking at the district summary, we can see that:
-    - Average math score dropped from 79.0% to 78.9%
-    - Percentage of students passing math dropped from 75% to 74%
-    - Percentage of students passing reading dropped from 86% to 85%
-    - Overall passing percentage dropped from 65% to 64%
 ![challenge_district_summary](resources/challenge_district_summary.png)
+- Looking at the district summary, we can see that:
+    - Average math score dropped from **79.0%** to **78.9%**
+    - Percentage of students passing math dropped from **75%** to **74%**
+    - Percentage of students passing reading dropped from **86%** to **85%**
+    - Overall passing percentage dropped from **65%** to **64%**
+
 - 
 
 
