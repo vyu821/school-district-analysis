@@ -24,10 +24,26 @@ A school board employee has asked you for the following metrics to assist in mak
 - Software: Anaconda 4.8.3, Jupyter Notebook 6.0.3, Python 3.7.7, Visual Studio Code 1.47.2
 
 ## Summary
+District Summary
 ![before_district_summary](resources/before_district_summary.png)
 
+School Summary
+![before_school_summary](resources/before_school_summary.png)
+
+Top 5 performing schools
+![before_top_5](resources/before_top_5.png)
+
+Bottom 5 performing schools
+![before_bottom_5](resources/challenge_bottom_5.png)
+
+Average Math Scores per Grade Level | Average Reading Scores per Grade Level
+:----------------------------------:|:-------------------------------------:
+![before_avg_math_score_per_school](resources/before_avg_math_score_per_school.png) | ![before_avg_reading_score_per_school](resources/before_avg_reading_score_per_school.png)
+
+
+
 ## Challenge Overview
-The school board has notified you that the reading and math scores for Thomas High School ninth greaders appear to have been altered. You are tasked to replace these scores with `NaN` while keeping the rest of the data intact. You are then to repeat the school distrct analysis and describe how these changes affected the overall analysis.
+The school board has notified you that the reading and math scores for Thomas High School ninth greaders appear to have been altered. You are tasked to replace these scores with`NaN`while keeping the rest of the data intact. You are then to repeat the school distrct analysis and describe how these changes affected the overall analysis.
 
 ## Challenge Results
 The analysis of the altered scores show that:
