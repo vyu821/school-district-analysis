@@ -71,7 +71,7 @@ The analysis of the altered scores show the following:
 - Looking at the top 5 performing schools, we can see that replacing ninth grader's scores for Thomas High School has dropped their performance to below top 5. However, Thomas High School's performance has not dropped to bottom 5 yet.
 ![challenge_top_5](resources/challenge_top_5.png)
 
-- Looking at the average math and reading scores per school, we can see that there is no average for ninth graders for Thomas High School. This reflects our alteration of replacing these scores with `Nan`.
+- Looking at the average math and reading scores per school, we can see that there is no average for ninth graders for Thomas High School. This reflects our alteration of replacing these scores with `NaN`.
 
 Average Math Scores per Grade Level | Average Reading Scores per Grade Level
 :----------------------------------:|:-------------------------------------:
